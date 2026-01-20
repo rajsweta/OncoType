@@ -46,5 +46,3 @@ Grad-CAM outputs and predictions will be shown in the notebook.
 # OncoType
 OncoType is a deep learning-powered system for detecting and classifying blood cancer cells from peripheral blood smear images. Using convolutional neural networks and Grad-CAM visualizations, OncoType assists in identifying malignant patterns and supports faster, more accurate diagnostics.
 
-
->>>>>>> 8ba4e1cae934d558077086a6f0f763293baaa560
