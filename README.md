@@ -19,23 +19,21 @@ Our technology can be applied across various medical and research domains, inclu
 
 4. Enhancing research in automated disease detection and digital pathology
 
-## 🧪 Usage
-There are two main ways to use this model:
 
-Option 1: Try the model online
-You can run the model directly in your browser via Hugging Face Spaces:
-   [OncoType](https://huggingface.co/spaces/ItsErAgOn/OncoType)
-
-
-Option 2: Run Locally
+Run Locally
 Clone this repository:
 
-   ```bash
-   git clone https://github.com/ItsEragon/OncoType.git
+## 🧪 Usage 
 
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/rajsweta/OncoType.git
+cd OncoType
+
+(Run Locally)
 Install required dependencies:
 
-   pip install -r requirements.txt
+pip install -r requirements.txt
 
 Open the training and inference notebook:
 
@@ -44,3 +42,9 @@ Launch training.ipynb using Jupyter or VS Code.
 Follow the final inference cells to load the model and test images.
 
 Grad-CAM outputs and predictions will be shown in the notebook.
+=======
+# OncoType
+OncoType is a deep learning-powered system for detecting and classifying blood cancer cells from peripheral blood smear images. Using convolutional neural networks and Grad-CAM visualizations, OncoType assists in identifying malignant patterns and supports faster, more accurate diagnostics.
+
+
+>>>>>>> 8ba4e1cae934d558077086a6f0f763293baaa560
